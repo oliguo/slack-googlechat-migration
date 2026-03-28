@@ -1,0 +1,35 @@
+{
+  "lastUpdated": "2026-03-28",
+  "version": "1.0.0",
+  "totalEntries": 12,
+  "categories": [
+    {
+      "id": "migration-patterns",
+      "name": "Migration Patterns",
+      "keywords": ["migration", "state", "resume", "atomic-write", "checkpoint", "crash-recovery", "graceful-degradation", "permission", "error-handling", "scan-cache", "download", "CLI", "confirm", "dry-run", "summary-table", "JSON", "key-format", "serialization", "corruption", "safety"],
+      "file": "migration-patterns.md",
+      "count": 5
+    },
+    {
+      "id": "google-chat-api",
+      "name": "Google Chat API",
+      "keywords": ["google-chat", "externalUserAllowed", "immutable", "spaces-patch", "retry", "lambda", "HttpRequest", "googleapiclient"],
+      "file": "google-chat-api.md",
+      "count": 2
+    },
+    {
+      "id": "slack-api",
+      "name": "Slack API",
+      "keywords": ["slack", "token", "xoxb", "xoxp", "scope", "archive", "export", "private-channel", "public-channel", "convert", "admin-api", "IncompleteRead", "retry", "backoff", "network-error", "file-mode", "hosted", "external", "google-drive", "download", "filter"],
+      "file": "slack-api.md",
+      "count": 4
+    },
+    {
+      "id": "hardware-tuning",
+      "name": "Hardware Tuning",
+      "keywords": ["hardware", "workers", "concurrency", "download", "i9", "macbook", "performance-tuning"],
+      "file": "hardware-tuning.md",
+      "count": 1
+    }
+  ]
+}

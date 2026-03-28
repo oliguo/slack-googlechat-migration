@@ -1,0 +1,31 @@
+{
+  "migrated_channels": {
+    "xxx1": {
+      "space_name": "spaces/AAQALsJ4As4",
+      "message_count": 43
+    },
+    "xxx2": {
+      "space_name": "spaces/AAQAwefBSYI",
+      "message_count": 596
+    }
+  },
+  "failed_channels": [],
+  "in_progress": {},
+  "invited:xxx1": [
+    "a@gmail.com",
+    "b@gmail.com"
+  ],
+  "skipped:xxx1": [
+    "c@gmail.com"
+  ],
+  "invited:xxx2": [
+    "a@gmail.com"
+  ],
+  "skipped:xxx2": [
+    "b@gmail.com"
+  ],
+  "archived_channels": [
+    "xxx1",
+    "xxx2"
+  ]
+}

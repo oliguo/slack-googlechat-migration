@@ -1,0 +1,31 @@
+# ─── Python ──────────────────────────────────────────────
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ─── Secrets (NEVER commit these) ────────────────────────
+.env
+client_secret.json
+service_account.json
+token.json
+
+# ─── Generated state files ───────────────────────────────
+migration_state.json
+download_state.json
+
+# ─── Downloaded files ────────────────────────────────────
+downloads/
+
+# ─── Logs ────────────────────────────────────────────────
+*.log
+
+# ─── OS / Editor ─────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/

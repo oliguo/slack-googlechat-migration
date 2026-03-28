@@ -1,0 +1,17 @@
+{
+    "token": "",
+    "refresh_token": "",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "client_id": "xxxxx.apps.googleusercontent.com",
+    "client_secret": "",
+    "scopes": [
+        "https://www.googleapis.com/auth/chat.spaces",
+        "https://www.googleapis.com/auth/chat.spaces.create",
+        "https://www.googleapis.com/auth/chat.messages",
+        "https://www.googleapis.com/auth/chat.messages.create",
+        "https://www.googleapis.com/auth/chat.memberships"
+    ],
+    "universe_domain": "googleapis.com",
+    "account": "",
+    "expiry": "2026-03-25T05:48:47Z"
+}

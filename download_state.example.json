@@ -1,0 +1,20 @@
+{
+  "completed_channels": [
+    "xxx1",
+    "xxx2"
+  ],
+  "downloaded_files": {
+    "xxx1/F079KASEWRM": {
+      "size": 22029,
+      "file_id": "F079KASEWRM"
+    },
+    "xxx1/F07727XH9RD": {
+      "size": 51270,
+      "file_id": "F07727XH9RD"
+    }
+  },
+  "scanned_channels": {
+    "xxx1": [],
+    "xxx2": []
+  }
+}
