@@ -10,6 +10,7 @@ __pycache__/
 client_secret.json
 service_account.json
 token.json
+chat.json
 
 # ─── Generated state files ───────────────────────────────
 migration_state.json
